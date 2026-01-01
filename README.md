@@ -7,3 +7,4 @@
 #### study
 - studied 'Speech and Language Processing'
 - translated a part of Cohere LLM University post (about 500 words)
+- studied LlamaIndex
